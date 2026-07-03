@@ -27,8 +27,8 @@
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedinid"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0e76a8" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vivek-r-nair-24544734a"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0e76a8" /></a>
+  <a href="https://github.com/MrGhost007"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:vivekrnair22@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,django,angular,html,css,mysql,mongodb,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,express,django,angular,html,css,mysql,git,github,vscode&perline=8" />
 </p>
 
 **Technical Skills:** Java, Python, Angular, SQL, OOP, SDLC, DSA, DBMS
