@@ -1,12 +1,19 @@
 <div align="center">
 
-<!-- ================= ANIMATED BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=VIVEK%20R%20NAIR&fontSize=48&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=8AF7C5" width="100%"/>
+<h1>
+  <img src="https://img.shields.io/badge/%3E_-VIVEK_R_NAIR-00FF9C?style=for-the-badge&labelColor=0D1117&color=0D1117" height="55"/>
+</h1>
 
-<!-- ================= TERMINAL TYPING BLOCK ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=500&color=00FF9C&background=0D1117&center=true&vCenter=true&width=800&lines=%3E+booting+vivek.exe...;%3E+loading+full-stack+modules;%3E+initializing+AI%2FML+core;%3E+connection+established.+access+granted;" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast-8AF7C5?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-<br/>
+<br/><br/>
+
+```
+> booting vivek.exe...
+> loading full-stack modules
+> initializing AI/ML core
+> connection established. access granted.
+```
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/MCA%20STUDENT-Amrita%20Vishwa%20Vidyapeetham-00FF9C?style=for-the-badge&labelColor=0D1117"/>
@@ -16,8 +23,7 @@
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20About%20Me%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` About Me `/>`
 
 ```yaml
 whoami:
@@ -33,9 +39,9 @@ whoami:
 
 <br/>
 
-<!-- ================= CONNECT ================= -->
+## `<` Connect `/>`
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Connect%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
 
 <a href="https://linkedin.com/in/vivek-r-nair-24544734a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
 <a href="https://github.com/MrGhost007"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/></a>
@@ -45,11 +51,26 @@ whoami:
 
 <br/>
 
-<!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Tech%20Arsenal%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Tech Arsenal `/>`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,express,django,angular,html,css,mysql,git,github,vscode&theme=dark&perline=7"/>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00FF9C"/>
+<br/>
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C"/>
+
 </div>
 
 <br/>
@@ -76,8 +97,7 @@ whoami:
 
 <br/>
 
-<!-- ================= EXPERIENCE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Experience%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Experience `/>`
 
 > **Full Stack Developer Intern — Upto Skills** `Jun 2026 – Present`
 > - Developed responsive web applications using CSS, React, Node.js, and Express.js
@@ -86,8 +106,7 @@ whoami:
 
 <br/>
 
-<!-- ================= PROJECTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Featured%20Builds%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Featured Builds `/>`
 
 <table align="center" width="100%">
 <tr>
@@ -123,8 +142,7 @@ Application simplifying zoo operations for staff and managers — activity loggi
 
 <br/>
 
-<!-- ================= EDUCATION ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Education%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Education `/>`
 
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
@@ -135,8 +153,7 @@ Application simplifying zoo operations for staff and managers — activity loggi
 
 <br/>
 
-<!-- ================= CERTIFICATIONS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Certifications%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Certifications `/>`
 
 <div align="center">
 <img src="https://img.shields.io/badge/E%26ICT%20IIT%20Guwahati-Data%20Analytics%20%26%20GenAI-0D1117?style=for-the-badge&logoColor=00FF9C"/>
@@ -147,8 +164,7 @@ Application simplifying zoo operations for staff and managers — activity loggi
 
 <br/>
 
-<!-- ================= ACHIEVEMENTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20Workshops%20%26%20Wins%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` Workshops & Wins `/>`
 
 - 🤖 **AI Without Code** — real-world no-code AI solutions `Feb 2026`
 - 🎮 **DEVMODE:ON** — Unreal Engine game development workshop `Jan 2026`
@@ -157,30 +173,27 @@ Application simplifying zoo operations for staff and managers — activity loggi
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=60&section=header&text=%3C%20System%20Metrics%20%2F%3E&fontSize=28&fontColor=00FF9C&fontAlignY=70"/>
+## `<` System Metrics `/>`
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MrGhost007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MrGhost007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
+<img src="https://streak-stats.demolab.com?user=MrGhost007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGhost007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGhost007&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" height="165"/>
 </div>
+
+> *If the cards above don't load for you, see the note below — GitHub itself renders fine without them.*
 
 <br/>
 
-<!-- ================= FOOTER ================= -->
 <div align="center">
 
 **🌍 Languages:** Malayalam · Hindi · English &nbsp;|&nbsp; **🎯 Interests:** Photography · Music
 
 <img src="https://komarev.com/ghpvc/?username=MrGhost007&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by!;Let's+build+something+great+together." alt="Footer Typing Animation" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+**Thanks for stopping by — let's build something great together.**
 
 </div>
